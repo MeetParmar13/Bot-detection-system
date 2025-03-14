@@ -27,7 +27,7 @@ making it a flexible security solution for businesses.
 To install the Bot Detection System, follow these steps:
 1. **Clone the repository:**
  ```bash
- git clone https://github.com/Shahir-04/Bot-Detection-System.git
+ git clone https://github.com/MeetParmar13/bot-detection-system.git
  ```
 2. **Navigate to the project directory:**
 ```bash
